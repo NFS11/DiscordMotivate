@@ -21,7 +21,7 @@ Coming soon...
 - ?listen - Start accepting commands again.
 - ?switchprefix [what prefix to use] - Switch prefix from default to one of these options: "?", ".", "!", "$". Default is "?".
   
-How do I let the code know I am the owner for the ?end commad authorisation?
+How do I let the code know I am the owner for the ?end command authorisation?
 
 - The owner authorisation is optional and I only put it there because I was bored but here's how you use it.
 
